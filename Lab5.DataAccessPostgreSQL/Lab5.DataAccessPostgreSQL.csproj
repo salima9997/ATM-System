@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <ItemGroup>
+      <PackageReference Include="Itmo.Dev.Platform.Postgres" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Lab5.ApplicationATM\Lab5.ApplicationATM.csproj" />
+    </ItemGroup>
+
+</Project>

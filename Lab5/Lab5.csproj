@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Itmo.Dev.Platform.Postgres" />
+      <PackageReference Include="Npgsql" />
+      <PackageReference Include="NSubstitute" />
+      <PackageReference Include="Spectre.Console" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Lab5.ApplicationATM\Lab5.ApplicationATM.csproj" />
+      <ProjectReference Include="..\Lab5.DataAccessPostgreSQL\Lab5.DataAccessPostgreSQL.csproj" />
+      <ProjectReference Include="..\Lab5.PresentationConsole\Lab5.PresentationConsole.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\bin\Debug\net8.0\Lab5.ApplicationATM.deps.json
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\bin\Debug\net8.0\Lab5.ApplicationATM.dll
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\bin\Debug\net8.0\Lab5.ApplicationATM.pdb
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\bin\Debug\net8.0\Lab5.ApplicationATM.xml
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\obj\Debug\net8.0\Lab5.ApplicationATM.csproj.AssemblyReference.cache
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\obj\Debug\net8.0\Lab5.ApplicationATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\obj\Debug\net8.0\Lab5.ApplicationATM.AssemblyInfoInputs.cache
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\obj\Debug\net8.0\Lab5.ApplicationATM.AssemblyInfo.cs
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\obj\Debug\net8.0\Lab5.ApplicationATM.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\obj\Debug\net8.0\Lab5.ApplicationATM.sourcelink.json
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\obj\Debug\net8.0\Lab5.ApplicationATM.dll
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\obj\Debug\net8.0\refint\Lab5.ApplicationATM.dll
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\obj\Debug\net8.0\Lab5.ApplicationATM.xml
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\obj\Debug\net8.0\Lab5.ApplicationATM.pdb
+C:\Users\Samsung\RiderProjects\salima9997\src\Lab5.ApplicationATM\obj\Debug\net8.0\ref\Lab5.ApplicationATM.dll
